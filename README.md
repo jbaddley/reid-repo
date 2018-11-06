@@ -16,7 +16,7 @@ This assignment assumes you have GIT installed on your computer. If you need to 
 
 Clone this repo: 
 
-git clone https://github.com/jbaddley/cami-repo.git
+git clone https://github.com/jbaddley/reid-repo.git
 
 Make changes and peridocially commit your changes to this repo:
 
